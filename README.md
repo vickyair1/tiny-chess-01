@@ -11,3 +11,9 @@ from the readable source; see the submission's transcript bundle for it).
 
 `main.py` speaks the competition env protocol (`MAKEFUN_ENV_URL`) and nothing
 else. No model calls, no network beyond the env.
+
+## Practice result (trial-0, local env + scorer)
+
+v3 at 50,000 nodes/move: Elo **1,087** (1 win, 2 draws, 5 losses) —
+below the 1,154 practice floor, so this entry is a baseline to improve on,
+not a finalist yet.
